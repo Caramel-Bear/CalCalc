@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Caramel-Bear/CalCalc#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "vue": "^2.2.6"
   }
 }
