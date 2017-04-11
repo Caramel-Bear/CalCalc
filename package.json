@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Caramel-Bear/CalCalc/issues"
   },
-  "homepage": "https://github.com/Caramel-Bear/CalCalc#readme"
+  "homepage": "https://github.com/Caramel-Bear/CalCalc#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
