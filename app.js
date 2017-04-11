@@ -1,5 +1,6 @@
 var express = require("express");
 var app = express();
+var vue = require('Vue');
 
 app.set('view engine','ejs');
 
