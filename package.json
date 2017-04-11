@@ -1,0 +1,19 @@
+{
+  "name": "calcalc",
+  "version": "1.0.0",
+  "description": "BMI and calorie tracking web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caramel-Bear/CalCalc.git"
+  },
+  "author": "Karan Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caramel-Bear/CalCalc/issues"
+  },
+  "homepage": "https://github.com/Caramel-Bear/CalCalc#readme"
+}
